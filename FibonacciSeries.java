@@ -21,6 +21,6 @@ public class FibonacciSeries {
         }
         
         System.out.println();
-        scanner.close();
+        scanner.close()
     }
 }
